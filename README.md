@@ -50,10 +50,16 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <h3 align="left">Frameworks</h3>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dungxibo123&show_icons=true&locale=en&layout=compact&theme=radical&hide=HTML,Jupyter%20Notebook" alt="dungxibo123" /></p>
+
+
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dungxibo123&show_icons=true&locale=en&theme=radical" alt="dungxibo123" /></p>
 
