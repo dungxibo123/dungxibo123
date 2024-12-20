@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dungxibo123&no-bg=true&theme=radical&margin-w=15&margin-h=15&row=1&column=7" alt="dungxibo123" /></a> </p>
 
-- 🔭 I’m currently research on **Differential Equation in Deep Learning**
+- 🔭 I’m currently research on **Machine Learning**
 
 - 📫 How to reach me **votiendung0805@gmail.com**
 
